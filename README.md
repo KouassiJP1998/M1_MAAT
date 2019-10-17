@@ -10,6 +10,7 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 
 - TD 2 : exercices théoriques sur les automates finis ; sujet disponible [ici](TD2_EXERCICES_AutomatesFinis.pdf)
 - TD 3 : utilisation d'Unitex pour développer des automates finis ; sujet disponible [ici](TD3.pdf)
+- Cours RegEx : disponible [ici](Cours RegEx.pdf)
 
 ## Corrections
 
