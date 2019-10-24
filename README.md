@@ -8,7 +8,7 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 ## DMs
 
 - Les consignes du DM : [ici]()
-- Le dossier sera à rendre **au plus tard le ??/11**
+- Le dossier sera à rendre **au plus tard le 14/11**
 
 ## TDs
 
