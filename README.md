@@ -1,10 +1,14 @@
-# M1 - Modélisation linguistique pour l'analyse automatique de textes
+# 3LTAY04T - Modélisation linguistique pour l'analyse automatique de textes
 
 Supports pour la seconde partie du cours de Modélisation linguistique pour l'analyse automatique de textes (à partir du 10/10).
 <br/><br/><br/>
 **Me contacter** : acm.etienne@gmail.com
 
 
+## DMs
+
+- Les consignes du DM : [ici]()
+- Le dossier sera à rendre **au plus tard le ??/11**
 
 ## TDs
 
@@ -16,3 +20,7 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 ## Corrections
 
 - Nouvelle version de la typologie des adverbiaux temporels : disponible [ici](Correction_ex2_TD1_v2.pdf)
+
+## Divers
+
+- Pour les utilisateurs et les utilisatrices de **Windows 10** : si vous en avez assez d'Anaconda et/ou de Cygwin, vous pouvez installer la console Bash sur votre machine ! Le tuto est disponible [ici](https://korben.info/installer-shell-bash-linux-windows-10.html).
