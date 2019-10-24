@@ -16,7 +16,7 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 - **TD 3 :** utilisation d'Unitex pour développer des automates finis ; sujet disponible [ici](TD3.pdf)<br/>
 *N.B.: les ressources (fichiers .txt) pour le cours et le manuel d'utilisation d'Unitex sont disponibles directement sur le GitHub.*
 - **Cours RegEx :** disponible [ici](Cours RegEx.pdf)
-- **Cours R, P et F-mesure :** disponible [ici](cours_evaluation.pdf)
+- **Cours R, P et F-mesure :** disponible [ici](Cours_evaluation.pdf)
 
 ## Corrections
 
