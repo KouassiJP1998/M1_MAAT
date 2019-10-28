@@ -17,6 +17,7 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 *N.B.: les ressources (fichiers .txt) pour le cours et le manuel d'utilisation d'Unitex sont disponibles directement sur le GitHub.*
 - **Cours RegEx :** disponible [ici](Cours RegEx.pdf)
 - **Cours R, P et F-mesure :** disponible [ici](Cours_evaluation.pdf)
+- **Tuto modifier un dictionnaire Unitex :** disponible [ici](Cours_utilisation_Unitex.pdf)
 
 ## Corrections
 
