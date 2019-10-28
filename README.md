@@ -4,6 +4,8 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 <br/><br/><br/>
 **Me contacter** : acm.etienne@gmail.com
 
+## A installer pour le 7/11
+Pour le 7/11, veuillez installer le logiciel [Glozz](http://www.glozz.org/) sur vos machines svp !
 
 ## DMs
 
