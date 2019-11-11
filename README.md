@@ -10,7 +10,7 @@ Pour le 7/11, veuillez installer le logiciel [Glozz](http://www.glozz.org/) sur 
 ## DMs
 
 - Les consignes du DM : [ici](consignes_dossier.pdf)
-- Le dossier sera à rendre **au plus tard le 14/11**
+- Le dossier sera à rendre **au plus tard le 21/11**
 
 ## TDs
 
