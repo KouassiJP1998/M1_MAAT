@@ -22,6 +22,7 @@ Pour le 14/11, veuillez installer le logiciel [Glozz](http://www.glozz.org/) sur
 
 - **Cours RegEx :** disponible [ici](Cours RegEx.pdf)
 - **Cours R, P et F-mesure :** disponible [ici](Cours_evaluation.pdf)
+- **Cours sur Glozz - 1ère partie :** disponible [ici](Cours_Glozz(1).pdf) (cours du 7/11)
 
 ## Tutoriels
 
