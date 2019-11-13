@@ -4,8 +4,8 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 <br/><br/><br/>
 **Me contacter** : acm.etienne@gmail.com
 
-## A installer pour le 7/11
-Pour le 7/11, veuillez installer le logiciel [Glozz](http://www.glozz.org/) sur vos machines svp !
+## A installer pour le 14/11
+Pour le 14/11, veuillez installer le logiciel [Glozz](http://www.glozz.org/) sur vos machines svp !
 
 ## DMs
 
@@ -17,9 +17,16 @@ Pour le 7/11, veuillez installer le logiciel [Glozz](http://www.glozz.org/) sur 
 - **TD 2 :** exercices théoriques sur les automates finis ; sujet disponible [ici](TD2_EXERCICES_AutomatesFinis.pdf)
 - **TD 3 :** utilisation d'Unitex pour développer des automates finis ; sujet disponible [ici](TD3.pdf)<br/>
 *N.B.: les ressources (fichiers .txt) pour le cours et le manuel d'utilisation d'Unitex sont disponibles directement sur le GitHub.*
+
+## Cours
+
 - **Cours RegEx :** disponible [ici](Cours RegEx.pdf)
 - **Cours R, P et F-mesure :** disponible [ici](Cours_evaluation.pdf)
+
+## Tutoriels
+
 - **Tuto modifier un dictionnaire Unitex :** disponible [ici](Cours_utilisation_Unitex.pdf)
+- **Tuto sauvegarder les résultats d'un graphe :** disponible [ici](Sauvegarder_resultats_Unitex.pdf)
 
 ## Corrections
 
