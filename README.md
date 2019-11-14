@@ -18,11 +18,10 @@ Constituez des groupes pour la semaine prochaine svp ! Inscrivez votre nom dans 
 - Les consignes du DM Glozz : *à venir*
 - Le dossier Glozz sera à rendre **au plus tard le 20/12**
 
-## TDs
+## Tutoriels
 
-- **TD 2 :** exercices théoriques sur les automates finis ; sujet disponible [ici](TD2_EXERCICES_AutomatesFinis.pdf)
-- **TD 3 :** utilisation d'Unitex pour développer des automates finis ; sujet disponible [ici](TD3.pdf)<br/>
-*N.B.: les ressources (fichiers .txt) pour le cours et le manuel d'utilisation d'Unitex sont disponibles directement sur le GitHub.*
+- **Tuto modifier un dictionnaire Unitex :** disponible [ici](Cours_utilisation_Unitex.pdf)
+- **Tuto sauvegarder les résultats d'un graphe :** disponible [ici](Sauvegarder_resultats_Unitex.pdf)
 
 ## Cours
 
@@ -32,10 +31,11 @@ Constituez des groupes pour la semaine prochaine svp ! Inscrivez votre nom dans 
 - **Cours sur Glozz - 2e partie :** disponible [ici](Cours_Glozz_(2).pdf) (cours du 14/11)
 *N.B.: Les fichiers d'exemples (.txt, .ac, .aa, .aam et .as) vu en cours sont disponibles directement sur le GitHub.*
 
-## Tutoriels
+## TDs
 
-- **Tuto modifier un dictionnaire Unitex :** disponible [ici](Cours_utilisation_Unitex.pdf)
-- **Tuto sauvegarder les résultats d'un graphe :** disponible [ici](Sauvegarder_resultats_Unitex.pdf)
+- **TD 2 :** exercices théoriques sur les automates finis ; sujet disponible [ici](TD2_EXERCICES_AutomatesFinis.pdf)
+- **TD 3 :** utilisation d'Unitex pour développer des automates finis ; sujet disponible [ici](TD3.pdf)<br/>
+*N.B.: les ressources (fichiers .txt) pour le cours et le manuel d'utilisation d'Unitex sont disponibles directement sur le GitHub.*
 
 ## Corrections
 
