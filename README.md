@@ -4,8 +4,6 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 <br/><br/><br/>
 **Me contacter** : acm.etienne@gmail.com
 
-## A installer pour le 14/11
-Pour le 14/11, veuillez installer le logiciel [Glozz](http://www.glozz.org/) sur vos machines svp !
 
 ## Exemples pour le 14/11
 - Fichier .txt [ici](les_Rohingyas_peuple_chasse_de_Birmanie.txt)
@@ -16,8 +14,10 @@ Pour le 14/11, veuillez installer le logiciel [Glozz](http://www.glozz.org/) sur
 
 ## DMs
 
-- Les consignes du DM : [ici](consignes_dossier.pdf)
-- Le dossier sera à rendre **au plus tard le 21/11**
+- Les consignes du DM Unitex : [ici](consignes_dossier.pdf)
+- Le dossier Unitex sera à rendre **au plus tard le 21/11**
+- Les consignes du DM Glozz : *à venir*
+- Le dossier Glozz sera à rendre **au plus tard le 20/12**
 
 ## TDs
 
@@ -30,6 +30,7 @@ Pour le 14/11, veuillez installer le logiciel [Glozz](http://www.glozz.org/) sur
 - **Cours RegEx :** disponible [ici](Cours RegEx.pdf)
 - **Cours R, P et F-mesure :** disponible [ici](Cours_evaluation.pdf)
 - **Cours sur Glozz - 1ère partie :** disponible [ici](Cours_Glozz(1).pdf) (cours du 7/11)
+- **Cours sur Glozz - 2e partie :** disponible [ici](Cours_Glozz_(2).pdf) (cours du 14/11)
 
 ## Tutoriels
 
