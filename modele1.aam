@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotationModel>
+
+	<units>
+	
+		<!--type name="paragraph"/-->
+	
+		<type name="Designee">
+			<featureSet>
+			
+				<feature name="type" default="inconnu">
+					<possibleValues>
+						<value>Base</value>
+						<value>Complexe</value>
+					</possibleValues>
+				</feature>
+				
+				<feature name="nom" default="inconnu">
+					<possibleValues>
+						<value>colere</value>
+						<value>culpabilite</value>
+						<value>degout</value>
+						<value>embarras</value>
+						<value>fierte</value>
+						<value>jalousie</value>
+						<value>joie</value>
+						<value>peur</value>
+						<value>surprise</value>
+						<value>tristesse</value>
+					</possibleValues>
+				</feature>
+				
+				<feature name="nature">
+					<possibleValues>
+						<value>Adj</value>
+						<value>Adv</value>
+						<value>Det</value>
+						<value>Interjection</value>
+						<value>Locution verbale</value>
+						<value>MWE</value>
+						<value>Nom</value>
+						<value>Nom propre</value>
+						<value>Prep (SP)</value>
+						<value>Pro</value>
+						<value>Verbe</value>
+					</possibleValues>
+				</feature>
+				
+			</featureSet>
+		</type>
+		
+		<type name="Comportementale">
+			<featureSet>
+			
+				<feature name="type" default="inconnu">
+					<possibleValues>
+						<value>Base</value>
+						<value>Complexe</value>
+					</possibleValues>
+				</feature>
+				
+				<feature name="nom" default="inconnu">
+					<possibleValues>
+						<value>colere</value>
+						<value>culpabilite</value>
+						<value>degout</value>
+						<value>embarras</value>
+						<value>fierte</value>
+						<value>jalousie</value>
+						<value>joie</value>
+						<value>peur</value>
+						<value>surprise</value>
+						<value>tristesse</value>
+					</possibleValues>
+				</feature>
+				
+				<feature name="nature">
+					<possibleValues>
+						<value>Adj</value>
+						<value>Adv</value>
+						<value>Det</value>
+						<value>Locution verbale</value>
+						<value>MWE</value>
+						<value>Nom</value>
+						<value>Paragraphe</value>
+						<value>Phrase</value>
+						<value>Groupe de phrases</value>
+						<value>Prep (SP)</value>
+						<value>Pro</value>
+						<value>Proposition</value>
+						<value>Verbe</value>
+					</possibleValues>
+				</feature>
+				
+			</featureSet>
+		</type>
+		
+		<type name="Montree">
+			<featureSet>
+			
+				<feature name="type" default="inconnu">
+					<possibleValues>
+						<value>Base</value>
+						<value>Complexe</value>
+					</possibleValues>
+				</feature>
+				
+				<feature name="nom" default="inconnu">
+					<possibleValues>
+						<value>colere</value>
+						<value>culpabilite</value>
+						<value>degout</value>
+						<value>embarras</value>
+						<value>fierte</value>
+						<value>jalousie</value>
+						<value>joie</value>
+						<value>peur</value>
+						<value>surprise</value>
+						<value>tristesse</value>
+					</possibleValues>
+				</feature>
+				
+				<feature name="nature">
+					<possibleValues>
+						<value>Adj</value>
+						<value>Adv</value>
+						<value>Det</value>
+						<value>Dislocation droite</value>
+						<value>Dislocation gauche</value>
+						<value>Enoncé averbal</value>
+						<value>Enoncé clivé</value>
+						<value>Enoncé elliptique</value>
+						<value>Exclamation</value>
+						<value>Interjection</value>
+						<value>Locution verbale</value>
+						<value>MWE</value>
+						<value>Nom</value>
+						<value>Nom propre</value>
+						<value>Paragraphe</value>
+						<value>Phrase</value>
+						<value>Groupe de phrases</value>
+						<value>Points de suspension</value>
+						<value>Prep (SP)</value>
+						<value>Pro</value>
+						<value>Proposition</value>
+						<value>Verbe</value>
+					</possibleValues>
+				</feature>
+				
+			</featureSet>
+		</type>
+		
+		<type name="Etayee">
+			<featureSet>
+			
+				<feature name="type" default="inconnu">
+					<possibleValues>
+						<value>Base</value>
+						<value>Complexe</value>
+					</possibleValues>
+				</feature>
+				
+				<feature name="nom" default="inconnu">
+					<possibleValues>
+						<value>colere</value>
+						<value>culpabilite</value>
+						<value>degout</value>
+						<value>embarras</value>
+						<value>fierte</value>
+						<value>jalousie</value>
+						<value>joie</value>
+						<value>peur</value>
+						<value>surprise</value>
+						<value>tristesse</value>
+					</possibleValues>
+				</feature>
+				
+				<feature name="nature">
+					<possibleValues>
+						<value>Adj</value>
+						<value>Adv</value>
+						<value>Det</value>
+						<value>Locution verbale</value>
+						<value>MWE</value>
+						<value>Nom</value>
+						<value>Nom propre</value>
+						<value>Paragraphe</value>
+						<value>Phrase</value>
+						<value>Groupe de phrases</value>
+						<value>Prep (SP)</value>
+						<value>Pro</value>
+						<value>Proposition</value>
+						<value>Verbe</value>
+					</possibleValues>
+				</feature>
+				
+			</featureSet>
+		</type>
+		
+		<type name="Entite">
+			
+			<featureSet>
+				<feature name="nature">
+					<possibleValues>
+						<value>Adj</value>
+						<value>Det</value>
+						<value>MWE</value>
+						<value>Nom</value>
+						<value>Nom propre</value>
+						<value>Prep (SP)</value>
+						<value>Pro</value>
+					</possibleValues>
+				</feature>
+				
+				<feature name="caracteristique_1">
+					<possibleValues>
+						<value>Animé-Humain</value>
+						<value>Animé-Non humain</value>
+						<value>Inanimé</value>
+					</possibleValues>
+				</feature>
+			
+				<feature name="caracteristique_2">
+					<possibleValues>
+						<value>Collectif</value>
+						<value>Individuel</value>
+					</possibleValues>
+				</feature>
+				
+			</featureSet>
+			
+		</type>
+	
+	</units>
+	
+	<relations>
+	
+		<type name="Affecte" oriented="True">
+			<featureSet>
+				<feature name="syntaxe">
+					<possibleValues>
+						<value>Sujet</value>
+						<value>Sujet passif</value>
+						<value>Compl. direct</value>
+						<value>Compl. indirect</value>
+						<value>Compl. du nom</value>
+						<value>Attribut du sujet</value>
+						<value>Attribut de l'objet</value>
+						<value>Détermination</value>
+						<value>Epithète</value>
+						<value>Autres</value>
+					</possibleValues>
+				</feature>
+			</featureSet>
+		</type>
+	
+	</relations>
+	
+	<schemas>
+	</schemas>
+	
+</annotationModel>

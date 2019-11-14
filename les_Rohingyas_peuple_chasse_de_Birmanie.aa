@@ -1,0 +1,2726 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotations>
+<metadata corpusHashcode="10176-27007299"/>
+<unit id="aetienne_1565369965532">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965532</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="0"/>
+</start>
+<end>
+<singlePosition index="26"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965533">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965533</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="26"/>
+</start>
+<end>
+<singlePosition index="66"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965534">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965534</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="66"/>
+</start>
+<end>
+<singlePosition index="531"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965535">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965535</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="531"/>
+</start>
+<end>
+<singlePosition index="564"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965536">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965536</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="564"/>
+</start>
+<end>
+<singlePosition index="790"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965537">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965537</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="790"/>
+</start>
+<end>
+<singlePosition index="1156"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965538">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965538</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1156"/>
+</start>
+<end>
+<singlePosition index="1503"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965539">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965539</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1503"/>
+</start>
+<end>
+<singlePosition index="1759"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965540">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965540</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1759"/>
+</start>
+<end>
+<singlePosition index="1999"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965541">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965541</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1999"/>
+</start>
+<end>
+<singlePosition index="2095"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965542">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965542</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2095"/>
+</start>
+<end>
+<singlePosition index="2129"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965543">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965543</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2129"/>
+</start>
+<end>
+<singlePosition index="2395"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965544">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965544</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2395"/>
+</start>
+<end>
+<singlePosition index="2681"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965545">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965545</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2681"/>
+</start>
+<end>
+<singlePosition index="3141"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965546">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965546</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3141"/>
+</start>
+<end>
+<singlePosition index="3527"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965547">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965547</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3527"/>
+</start>
+<end>
+<singlePosition index="3697"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965548">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965548</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3697"/>
+</start>
+<end>
+<singlePosition index="4080"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965549">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965549</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4080"/>
+</start>
+<end>
+<singlePosition index="4107"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965550">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965550</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4107"/>
+</start>
+<end>
+<singlePosition index="4468"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965551">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965551</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4468"/>
+</start>
+<end>
+<singlePosition index="4753"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965552">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965552</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4753"/>
+</start>
+<end>
+<singlePosition index="5192"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965553">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965553</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5192"/>
+</start>
+<end>
+<singlePosition index="5513"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965554">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965554</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5513"/>
+</start>
+<end>
+<singlePosition index="5915"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965555">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965555</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5915"/>
+</start>
+<end>
+<singlePosition index="5939"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965556">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965556</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5939"/>
+</start>
+<end>
+<singlePosition index="6276"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965557">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965557</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="6276"/>
+</start>
+<end>
+<singlePosition index="6441"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965558">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965558</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="6441"/>
+</start>
+<end>
+<singlePosition index="7044"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965559">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965559</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7044"/>
+</start>
+<end>
+<singlePosition index="7570"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965560">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965560</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7570"/>
+</start>
+<end>
+<singlePosition index="7735"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965561">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965561</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7735"/>
+</start>
+<end>
+<singlePosition index="7764"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965562">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965562</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7764"/>
+</start>
+<end>
+<singlePosition index="8088"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965563">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965563</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="8088"/>
+</start>
+<end>
+<singlePosition index="8379"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965564">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965564</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="8379"/>
+</start>
+<end>
+<singlePosition index="8576"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965565">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965565</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="8576"/>
+</start>
+<end>
+<singlePosition index="9259"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965566">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965566</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="9259"/>
+</start>
+<end>
+<singlePosition index="9715"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965567">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965567</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Designee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Nom</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1463"/>
+</start>
+<end>
+<singlePosition index="1467"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965568">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965568</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Designee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">tristesse</feature>
+<feature name="nature">Adj</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1476"/>
+</start>
+<end>
+<singlePosition index="1486"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965570">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965570</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Designee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">colere</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5741"/>
+</start>
+<end>
+<singlePosition index="5747"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1565369965571">
+<metadata>
+<author>aetienne</author>
+<creation-date>1565369965571</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Designee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Nom</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7565"/>
+</start>
+<end>
+<singlePosition index="7569"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013137623">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013137623</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013177113</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1408"/>
+</start>
+<end>
+<singlePosition index="1420"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013152204">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013152204</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013169183</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Proposition</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1340"/>
+</start>
+<end>
+<singlePosition index="1378"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013182213">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013182213</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013188603</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Pro</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1430"/>
+</start>
+<end>
+<singlePosition index="1433"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013192332">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013192332</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013202388</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Proposition</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1434"/>
+</start>
+<end>
+<singlePosition index="1457"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013284026">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013284026</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013288876</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Pro</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1425"/>
+</start>
+<end>
+<singlePosition index="1429"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013325999">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013325999</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013331456</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Adj</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1215"/>
+</start>
+<end>
+<singlePosition index="1223"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013335846">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013335846</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013339256</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1244"/>
+</start>
+<end>
+<singlePosition index="1257"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013352226">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013352226</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013358345</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Individuel</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1503"/>
+</start>
+<end>
+<singlePosition index="1520"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013363656">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013363656</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013369266</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comportementale</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1521"/>
+</start>
+<end>
+<singlePosition index="1533"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013377516">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013377516</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013386515</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Nom</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1559"/>
+</start>
+<end>
+<singlePosition index="1566"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013405196">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013405196</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013409685</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">tristesse</feature>
+<feature name="nature">Proposition</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1847"/>
+</start>
+<end>
+<singlePosition index="1889"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013413747">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013413747</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013419525</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">tristesse</feature>
+<feature name="nature">Proposition</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1926"/>
+</start>
+<end>
+<singlePosition index="1968"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013424775">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013424775</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013431518</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom propre</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Individuel</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1767"/>
+</start>
+<end>
+<singlePosition index="1772"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013441105">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013441105</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013448445</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Pro</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Individuel</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1910"/>
+</start>
+<end>
+<singlePosition index="1912"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013463045">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013463045</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013467485</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2264"/>
+</start>
+<end>
+<singlePosition index="2291"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013470375">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013470375</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013474496</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comportementale</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">joie</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2292"/>
+</start>
+<end>
+<singlePosition index="2308"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013490615">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013490615</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013495105</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comportementale</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2353"/>
+</start>
+<end>
+<singlePosition index="2364"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013505205">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013505205</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013511417</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2395"/>
+</start>
+<end>
+<singlePosition index="2408"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013517777">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013517777</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013521637</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comportementale</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2409"/>
+</start>
+<end>
+<singlePosition index="2416"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013535347">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013535347</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013554987</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Pro</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2436"/>
+</start>
+<end>
+<singlePosition index="2439"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013558867">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013558867</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013569977</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Proposition</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2440"/>
+</start>
+<end>
+<singlePosition index="2538"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013596817">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013596817</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013600807</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2708"/>
+</start>
+<end>
+<singlePosition index="2721"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013603838">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013603838</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013609697</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">tristesse</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2722"/>
+</start>
+<end>
+<singlePosition index="2737"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013629707">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013629707</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013634657</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Pro</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2848"/>
+</start>
+<end>
+<singlePosition index="2851"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013637346">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013637346</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013652496</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Designee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">colere</feature>
+<feature name="nature">Locution verbale</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2852"/>
+</start>
+<end>
+<singlePosition index="2868"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013666456">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013666456</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013672647</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">tristesse</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2869"/>
+</start>
+<end>
+<singlePosition index="2883"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013683406">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013683406</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013687226</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2827"/>
+</start>
+<end>
+<singlePosition index="2847"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013691297">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013691297</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013698856</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comportementale</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">colere</feature>
+<feature name="nature">Proposition</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2884"/>
+</start>
+<end>
+<singlePosition index="2916"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013700797">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013700797</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013704896</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comportementale</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">colere</feature>
+<feature name="nature">Proposition</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2920"/>
+</start>
+<end>
+<singlePosition index="2941"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013726186">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013726186</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013734106</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2952"/>
+</start>
+<end>
+<singlePosition index="2972"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013739317">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013739317</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013746408</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comportementale</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">colere</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2983"/>
+</start>
+<end>
+<singlePosition index="2988"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013757747">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013757747</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567286318155</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">colere</feature>
+<feature name="nature">Adv</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3024"/>
+</start>
+<end>
+<singlePosition index="3034"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013802426">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013802426</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013808116</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2989"/>
+</start>
+<end>
+<singlePosition index="3018"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567014924635">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567014924635</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567014928014</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Pro</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4774"/>
+</start>
+<end>
+<singlePosition index="4777"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567014931365">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567014931365</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567014936295</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Designee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">tristesse</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4778"/>
+</start>
+<end>
+<singlePosition index="4789"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567014944914">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567014944914</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567014954495</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Nom</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4796"/>
+</start>
+<end>
+<singlePosition index="4805"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567014979134">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567014979134</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567014984794</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">joie</feature>
+<feature name="nature">Nom</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5337"/>
+</start>
+<end>
+<singlePosition index="5357"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567014997214">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567014997214</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015002405</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Designee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">colere</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5527"/>
+</start>
+<end>
+<singlePosition index="5538"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015005014">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015005014</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015008964</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Pro</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Individuel</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5522"/>
+</start>
+<end>
+<singlePosition index="5526"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015018084">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015018084</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015025504</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">colere</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5542"/>
+</start>
+<end>
+<singlePosition index="5557"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015038193">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015038193</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015041103</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5748"/>
+</start>
+<end>
+<singlePosition index="5762"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015055004">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015055004</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015061814</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5839"/>
+</start>
+<end>
+<singlePosition index="5852"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015065154">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015065154</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015084333</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Designee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">tristesse</feature>
+<feature name="nature">Adj</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5900"/>
+</start>
+<end>
+<singlePosition index="5905"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015096734">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015096734</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015105064</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">tristesse</feature>
+<feature name="nature">Proposition</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="5864"/>
+</start>
+<end>
+<singlePosition index="5886"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015149480">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015149480</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015155707</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Nom</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7465"/>
+</start>
+<end>
+<singlePosition index="7477"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015160246">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015160246</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015165227</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7533"/>
+</start>
+<end>
+<singlePosition index="7546"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015209766">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015209766</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015215186</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comportementale</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Proposition</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7621"/>
+</start>
+<end>
+<singlePosition index="7642"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015218830">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015218830</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015226526</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7570"/>
+</start>
+<end>
+<singlePosition index="7594"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015237487">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015237487</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015241180</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Entite</type>
+<featureSet>
+<feature name="nature">Nom</feature>
+<feature name="caracteristique_1">Animé-Humain</feature>
+<feature name="caracteristique_2">Collectif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7836"/>
+</start>
+<end>
+<singlePosition index="7850"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015246786">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015246786</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015256306</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Proposition</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7764"/>
+</start>
+<end>
+<singlePosition index="7835"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015264736">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015264736</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015269596</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comportementale</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Proposition</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7851"/>
+</start>
+<end>
+<singlePosition index="7869"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567015270646">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015270646</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567015275236</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comportementale</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">peur</feature>
+<feature name="nature">Verbe</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="7873"/>
+</start>
+<end>
+<singlePosition index="7884"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567286344759">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567286344759</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567286356390</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Etayee</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">tristesse</feature>
+<feature name="nature">Adv</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2689"/>
+</start>
+<end>
+<singlePosition index="2703"/>
+</end>
+</positioning>
+</unit>
+<unit id="aetienne_1567013787966">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013787966</creation-date>
+<lastModifier>aetienne</lastModifier>
+<lastModificationDate>1567013794436</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comportementale</type>
+<featureSet>
+<feature name="type">Base</feature>
+<feature name="nom">colere</feature>
+<feature name="nature">Phrase</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3036"/>
+</start>
+<end>
+<singlePosition index="3141"/>
+</end>
+</positioning>
+</unit>
+<relation id="aetienne_1567013204770">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013204770</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013192332"/>
+<term id="aetienne_1567013182213"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013293066">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013293066</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013137623"/>
+<term id="aetienne_1567013284026"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013296425">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013296425</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013152204"/>
+<term id="aetienne_1567013284026"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013302356">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013302356</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1565369965567"/>
+<term id="aetienne_1567013284026"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013306816">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013306816</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Attribut du sujet</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1565369965568"/>
+<term id="aetienne_1567013284026"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013342666">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013342666</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013325999"/>
+<term id="aetienne_1567013335846"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013371286">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013371286</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013363656"/>
+<term id="aetienne_1567013352226"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013389725">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013389725</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013377516"/>
+<term id="aetienne_1567013352226"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013433717">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013433717</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013405196"/>
+<term id="aetienne_1567013424775"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013451215">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013451215</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013413747"/>
+<term id="aetienne_1567013441105"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013481195">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013481195</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013470375"/>
+<term id="aetienne_1567013463045"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013497615">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013497615</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013490615"/>
+<term id="aetienne_1567013463045"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013523907">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013523907</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013517777"/>
+<term id="aetienne_1567013505205"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013572777">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013572777</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet passif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013558867"/>
+<term id="aetienne_1567013535347"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013612117">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013612117</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet passif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013603838"/>
+<term id="aetienne_1567013596817"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013655247">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013655247</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013637346"/>
+<term id="aetienne_1567013629707"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013675987">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013675987</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013666456"/>
+<term id="aetienne_1567013629707"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013707406">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013707406</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013691297"/>
+<term id="aetienne_1567013683406"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013710666">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013710666</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013700797"/>
+<term id="aetienne_1567013683406"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013750276">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013750276</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013739317"/>
+<term id="aetienne_1567013726186"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013766506">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013766506</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe"/>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013757747"/>
+<term id="aetienne_1567013726186"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567013798465">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567013798465</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe"/>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567013787966"/>
+<term id="aetienne_1567013726186"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567014939684">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567014939684</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567014931365"/>
+<term id="aetienne_1567014924635"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567014957634">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567014957634</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567014944914"/>
+<term id="aetienne_1567014924635"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567015011125">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015011125</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet passif</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567014997214"/>
+<term id="aetienne_1567015005014"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567015027584">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015027584</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567015018084"/>
+<term id="aetienne_1567015005014"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567015043074">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015043074</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Compl. direct</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1565369965570"/>
+<term id="aetienne_1567015038193"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567015087064">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015087064</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Attribut du sujet</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567015065154"/>
+<term id="aetienne_1567015055004"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567015111594">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015111594</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567015096734"/>
+<term id="aetienne_1567015055004"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567015194736">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015194736</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1565369965571"/>
+<term id="aetienne_1567015160246"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567015228765">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015228765</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567015209766"/>
+<term id="aetienne_1567015218830"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567015258486">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015258486</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567015246786"/>
+<term id="aetienne_1567015237487"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567015277436">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015277436</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567015264736"/>
+<term id="aetienne_1567015237487"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567015280956">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567015280956</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Sujet</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567015270646"/>
+<term id="aetienne_1567015237487"/>
+</positioning>
+</relation>
+<relation id="aetienne_1567286359282">
+<metadata>
+<author>aetienne</author>
+<creation-date>1567286359282</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Affecte</type>
+<featureSet>
+<feature name="syntaxe">Autres</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="aetienne_1567286344759"/>
+<term id="aetienne_1567013596817"/>
+</positioning>
+</relation>
+</annotations>
