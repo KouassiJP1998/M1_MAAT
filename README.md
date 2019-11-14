@@ -7,9 +7,9 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 ## Tableau à remplir pour le 21/11
 Constituez des groupes pour la semaine prochaine svp ! Inscrivez votre nom dans [ce tableau](https://lite.framacalc.org/3ltay04t_groupes_glozz).
 
-## /!\ ATTENTION :
-### Cours de 9h30 à 12h30 le 21/11 et le 28/11 (même salle)
-### Pas cours le 5/12
+## /!\ ATTENTION /!\
+**Cours de 9h30 à 12h30 le 21/11 et le 28/11 (même salle)**<br/>
+**Pas cours le 5/12**
 
 ## Exemples pour le 14/11
 - Fichier .txt [ici](les_Rohingyas_peuple_chasse_de_Birmanie.txt)
