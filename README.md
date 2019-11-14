@@ -7,6 +7,13 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 ## A installer pour le 14/11
 Pour le 14/11, veuillez installer le logiciel [Glozz](http://www.glozz.org/) sur vos machines svp !
 
+## Exemples pour le 14/11
+- Fichier .txt [ici]()
+- Fichier .ac [ici](les_Rohingyas_peuple_chasse_de_Birmanie.ac)
+- Fichier .aa [ici](les_Rohingyas_peuple_chasse_de_Birmanie.aa)
+- Fichier .aam [ici](modele1.aam)
+- Fichier .as [ici](style_emotions.as)
+
 ## DMs
 
 - Les consignes du DM : [ici](consignes_dossier.pdf)
