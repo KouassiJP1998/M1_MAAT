@@ -28,7 +28,7 @@ Constituez des groupes pour la semaine prochaine svp ! Inscrivez votre nom dans 
 - **Cours RegEx :** disponible [ici](Cours RegEx.pdf)
 - **Cours R, P et F-mesure :** disponible [ici](Cours_evaluation.pdf)
 - **Cours sur Glozz - 1ère partie :** disponible [ici](Cours_Glozz(1).pdf) (cours du 7/11)
-- **Cours sur Glozz - 2e partie :** disponible [ici](Cours_Glozz_(2).pdf) (cours du 14/11)
+- **Cours sur Glozz - 2e partie :** disponible [ici](Cours_Glozz_(2).pdf) (cours du 14/11)<br/>
 *N.B.: Les fichiers d'exemples (.txt, .ac, .aa, .aam et .as) vu en cours sont disponibles directement sur le GitHub.*
 
 ## TDs
