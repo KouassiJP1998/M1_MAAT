@@ -4,6 +4,10 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 <br/><br/><br/>
 **Me contacter** : acm.etienne@gmail.com
 
+## Données pour le cours de Python 15/11
+Dossier zippé avec les textes d'exemple [ici](fichiers_tests.zip)
+
+
 ## Tableau à remplir pour le 21/11
 Constituez des groupes pour la semaine prochaine svp ! Inscrivez votre nom dans [ce tableau](https://lite.framacalc.org/3ltay04t_groupes_glozz).
 
