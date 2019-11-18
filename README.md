@@ -4,8 +4,9 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 <br/><br/><br/>
 **Me contacter** : acm.etienne@gmail.com
 
-## Données pour le cours de Python 15/11
-Dossier zippé avec les textes d'exemple [ici](fichiers_tests.zip)
+## Cours de Python 15/11
+- Dossier zippé avec les textes d'exemple [ici](fichiers_tests.zip)
+- Le notebook du cours [ici](M1-Python-15nov.ipynb), avec ce qui a été vu en cours mais réorganisé + quelques éléments nouveaux
 
 
 ## Tableau à remplir pour le 21/11
