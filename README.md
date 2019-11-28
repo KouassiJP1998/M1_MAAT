@@ -4,6 +4,10 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 <br/><br/><br/>
 **Me contacter** : acm.etienne@gmail.com
 
+## Pour le 28/11
+
+- Répertoire zippé à télécharger, avec le "squelette" du schéma d'annotation : [ici](GlozzFiles.zip)
+
 ## /!\ ATTENTION /!\
 **Cours de 9h30 à 12h30 le 21/11 et le 28/11 (même salle)**<br/>
 **Pas cours le 5/12**
