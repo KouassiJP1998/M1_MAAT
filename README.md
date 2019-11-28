@@ -7,7 +7,7 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 ## Pour le 28/11
 
 - Répertoire zippé à télécharger, avec le "squelette" du schéma d'annotation : [ici](GlozzFiles.zip)
-- Script pour convertir un résultat Unitex en fichiers Glozz : 
+- Notebook pour convertir un résultat Unitex en fichiers Glozz : [ici](Unitex_to_GlozzFiles.ipynb)
 
 ## /!\ ATTENTION /!\
 **Cours de 9h30 à 12h30 le 21/11 et le 28/11 (même salle)**<br/>
