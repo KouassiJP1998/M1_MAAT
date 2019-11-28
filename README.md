@@ -4,18 +4,12 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 <br/><br/><br/>
 **Me contacter** : acm.etienne@gmail.com
 
-## Cours de Python
-- Dossier zippé avec les textes d'exemple du 15/11 [ici](fichiers_tests.zip)
-- Le notebook du cours du 15/11 [ici](M1-Python-15nov.ipynb), avec ce qui a été vu en cours mais réorganisé + quelques éléments nouveaux
-- Le notebook du cours du 22/11 [ici](M1-Python-21nov.ipynb). Seul changement par rapport à ce qui a été fait en cours : des consignes plus détaillées pour les exercices d'application.
-
-
-## Tableau à remplir pour le 21/11
-Constituez des groupes pour la semaine prochaine svp ! Inscrivez votre nom dans [ce tableau](https://lite.framacalc.org/3ltay04t_groupes_glozz).
-
 ## /!\ ATTENTION /!\
 **Cours de 9h30 à 12h30 le 21/11 et le 28/11 (même salle)**<br/>
 **Pas cours le 5/12**
+
+## Tableau des groupes
+Constituez des groupes pour la semaine prochaine svp ! Inscrivez votre nom dans [ce tableau](https://lite.framacalc.org/3ltay04t_groupes_glozz).
 
 ## DMs
 
