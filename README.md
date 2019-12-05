@@ -4,24 +4,17 @@ Supports pour la seconde partie du cours de Modélisation linguistique pour l'an
 <br/><br/><br/>
 **Me contacter** : acm.etienne@gmail.com
 
-## Pour le 28/11
-
-- Répertoire zippé à télécharger, avec le "squelette" du schéma d'annotation : [ici](GlozzFiles.zip)
-- Notebook pour convertir un résultat Unitex en fichiers Glozz : [ici](Unitex_to_GlozzFiles.ipynb)
-
-## /!\ ATTENTION /!\
-**Cours de 9h30 à 12h30 le 21/11 et le 28/11 (même salle)**<br/>
-**Pas cours le 5/12**
-
-## Tableau des groupes
-Constituez des groupes pour la semaine prochaine svp ! Inscrivez votre nom dans [ce tableau](https://lite.framacalc.org/3ltay04t_groupes_glozz).
-
 ## DMs
 
 - Les consignes du DM Unitex : [ici](consignes_dossier.pdf)
 - Le dossier Unitex sera à rendre **au plus tard le 21/11**
-- Les consignes du DM Glozz : *à venir*
+- Les consignes du DM Glozz : [ici](consignes_dossier_Glozz.pdf)
 - Le dossier Glozz sera à rendre **au plus tard le 20/12**
+  <br/>==>Répertoire zippé à télécharger, avec le "squelette" du schéma d'annotation : [ici](GlozzFiles.zip)
+  <br/>==>Notebook pour convertir un résultat Unitex en fichiers Glozz : [ici](Unitex_to_GlozzFiles.ipynb)
+
+## Tableau des groupes
+Constituez des groupes pour la semaine prochaine svp ! Inscrivez votre nom dans [ce tableau](https://lite.framacalc.org/3ltay04t_groupes_glozz).
 
 ## Tutoriels
 
